@@ -1,4 +1,4 @@
-# hello-world
-this is my first repository
+# 超市进销存系统
+Supermarket Invoicing System
 Superman 
-asdf
+
